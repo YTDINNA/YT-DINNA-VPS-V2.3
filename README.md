@@ -19,13 +19,15 @@
 
 7. `apt-get install nodejs git`
 
-8. `cd v2panel`
+8. `ls`
 
-9. `apt install zip -y && unzip panel.zip && cd panel`
+9. `cd YT-DINNA-VPS-V2.3`
 
-10. `npm install && npm run seed && npm run createUser`
+10. `apt install zip -y && unzip panel.zip && cd panel`
 
-11. `node .`
+11. `npm install && npm run seed && npm run createUser`
+
+12. `node .`
 
 
 
