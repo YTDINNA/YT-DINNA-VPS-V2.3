@@ -37,8 +37,9 @@
 1. `sudo su`
 2. `clear`
 3. `git clone https://github.com/YTDINNA/YT-DINNA-VPS-V2.3-Nodes`
-4. `cd dash`
-5. `apt install zip -y && unzip dashboard.zip && cd dash && apt install nano -y && nano .env`
-6.  `npm install`
-7.  `node .`
+4. `sl`
+5. `cd YT-DINNA-VPS-V2.3-Nodes`
+6. `apt install zip -y && unzip dashboard.zip && cd dash && apt install nano -y && nano .env`
+7.  `npm install`
+8.  `node .`
 
