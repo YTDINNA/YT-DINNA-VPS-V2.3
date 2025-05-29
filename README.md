@@ -40,7 +40,6 @@
 6. `clear`
 7. `rm -rf .env`
 8. `nano .env`
-9.  `node .`
-10.  `npm install`
-11.  `node .`
+9.  `npm install`
+10.  `node .`
 
