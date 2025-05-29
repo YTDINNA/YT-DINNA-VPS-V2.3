@@ -39,6 +39,7 @@
 5. `apt install zip -y && unzip dashboard.zip && cd dash && apt install nano -y && nano .env`
 6. `clear`
 7. `rm -rf .env`
-8.  `npm install`
-9.  `node .`
+8. `nano .env`
+9.  `npm install`
+10.  `node .`
 
