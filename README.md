@@ -5,7 +5,7 @@
 ## Installation 1
  Clone the repository or download:
 
-1. `sudo su`
+1. `bash <(curl -s https://raw.githubusercontent.com/JishnuTheGamer/pterodactyl/refs/heads/main/panel-jtg)`
 
 2. `clear`
 
@@ -32,7 +32,7 @@
 <h1 align="center">Nodes Panel</h1>
 ## Installation 2
 
-1. `sudo su`
+1. `bash <(curl -s https://raw.githubusercontent.com/JishnuTheGamer/pterodactyl/refs/heads/main/wings-jtg`
 2. `clear`
 3. `git clone https://github.com/YTDINNA/YT-DINNA-VPS-V2.3-Nodes`
 4. `cd YT-DINNA-VPS-V2.3-Nodes`
