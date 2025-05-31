@@ -30,6 +30,7 @@
 
 
 <h1 align="center">Nodes Panel</h1>
+
 ## Installation 2
 
 1. `bash <(curl -s https://raw.githubusercontent.com/JishnuTheGamer/pterodactyl/refs/heads/main/wings-jtg`
