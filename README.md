@@ -2,7 +2,7 @@
 <h1 align="center">D N A COMMUNITY V2.3 Panel</h1>
 ## Overview
 
-## Installation
+## Installation 1
  Clone the repository or download:
 
 1. `sudo su`
@@ -30,7 +30,7 @@
 
 
 <h1 align="center">Nodes Panel</h1>
-## Overview
+## Installation 2
 
 1. `sudo su`
 2. `clear`
