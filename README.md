@@ -25,11 +25,7 @@
 
 10. `npm install && npm run seed && npm run createUser`
 
-11. `node .`
-
-
-
-<h1 align="center">Nodes Panel</h1>
+11. `node .
 
 ## Installation 2
 
