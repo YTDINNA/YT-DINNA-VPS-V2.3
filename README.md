@@ -7,36 +7,28 @@
 
 1. `bash <(curl -s https://raw.githubusercontent.com/JishnuTheGamer/pterodactyl/refs/heads/main/panel-jtg)`
 
-2. `clear`
+ `Total Memory - 10000000`
 
-3. `apt update`
+ `Disk Space - 10000000`
 
-4. `clear`
+ `Daemon Port - 443`
 
-5. `git clone https://github.com/YTDINNA/YT-DINNA-VPS-V2.3`
-
-6. ` curl -sL https://deb.nodesource.com/setup_23.x | sudo bash - `
-
-7. `apt-get install nodejs git`
-
-8. `cd YT-DINNA-VPS-V2.3`
-
-9. `apt install zip -y && unzip panel.zip && cd panel`
-
-10. `npm install && npm run seed && npm run createUser`
-
-11. `node .
+ `Ports - 19100-19200`
+ 
 
 ## Installation 2
 
 1. `bash <(curl -s https://raw.githubusercontent.com/JishnuTheGamer/pterodactyl/refs/heads/main/wings-jtg`
-2. `clear`
-3. `git clone https://github.com/YTDINNA/YT-DINNA-VPS-V2.3-Nodes`
-4. `cd YT-DINNA-VPS-V2.3-Nodes`
-5. `apt install zip -y && unzip dashboard.zip && cd dash && apt install nano -y && nano .env`
-6. `clear`
-7. `rm -rf .env`
-8. `nano .env`
-9.  `npm install`
-10.  `node .`
+2. `ssh -R 80:localhost:443 serveo.net `
+
+   
+1. `cd pterodactyl`
+2. `sudo su `
+3. `nano /etc/pterodactyl/config.yml`
+4. `cd wings `
+5. `docker-compose up -d --force-recreate`
+   
+6. ` wget https://github.com/playit-cloud/playit-agent/releases/download/v0.15.26/playit-linux-amd64
+chmod +x playit-linux-amd64
+./playit-linux-amd64 `
 
